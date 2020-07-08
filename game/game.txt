@@ -1,0 +1,13 @@
+<html>
+abc
+<canvas id="gameCanvas" width="800" height="600"></canvas>
+<script>
+var canvas;
+var canvasContext;
+
+window.onload=function(){
+console.log("hello");
+console.log("world");
+}
+</script>
+</html>
